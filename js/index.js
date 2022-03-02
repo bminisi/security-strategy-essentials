@@ -16,6 +16,7 @@ const img = [
 let total = 0;
 let move = 0;
 let count = 1;
+let clientSecret = 'b63555e4-2e92-4fec-81b5-74ddd62c9b83'
 let first_card = null;
 let secn_card = null;
 
